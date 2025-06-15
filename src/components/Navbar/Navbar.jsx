@@ -70,7 +70,7 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
               <div className="relative ">
                 {/* Profile Picture */}
                 <img
-                  src="/src/assets/aakib.png"
+                  src="/aakib.png"
                   alt="Profile"
                   className="w-10 h-10 rounded-xl object-cover "
                 />

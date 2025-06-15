@@ -62,7 +62,7 @@ const About = () => {
                 <div className="w-full h-full rounded-2xl bg-gray-800 flex items-center justify-center">
                   <div className="w-62 h-62 rounded-xl bg-gradient-to-br from-gray-700 to-gray-600 flex items-center justify-center text-7xl font-bold text-white">
                     <img
-                      src="/src/assets/aakib.png"
+                      src="/aakib.png"
                       alt="Profile"
                       className="w-56 h-56 object-cover rounded-xl shadow-lg "
                     />

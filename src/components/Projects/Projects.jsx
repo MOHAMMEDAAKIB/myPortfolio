@@ -6,7 +6,6 @@ import faceRecognitionImg from '../../assets/face_recognization.png';
 import pastPaperImg from '../../assets/past_paper_management.png';
 import smartCanteenImg from '../../assets/smart_canteen.png';
 import portfolioWebImg from '../../assets/portfolio_website.png';
-import aakibImg from '../../assets/aakib.png';
 
 const Projects = () => {
   const projects = [
